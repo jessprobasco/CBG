@@ -42,54 +42,54 @@ All assets are stored in folder:
 
 * **Funnels**
 
-**\[CNC] – Connect Card Funnel**
+    * `[CNC] – Connect Card Funnel`
 
-* Page 1: `[CNC Start]` — Survey entry page
-* Page 2: `[CNC Thank You]` — Post-submission confirmation + video
+        * Page 1: `[CNC Start]` — Survey entry page
+        * Page 2: `[CNC Thank You]` — Post-submission confirmation + video
 
-### Forms / Surveys
+* **Forms / Surveys**
 
-* `[CNC Connect Card Survey]` (fields: Last Name, First Name, Phone, Email, Address)
+    * `[CNC Connect Card Survey]` 
+        * **Fields:** 
+            * `contact.lastname`
+            * `contact.firstname`
+            * `contact.phone`
+            * `contact.email`
+            * `contact.address`
 
-### Workflows
+* **Workflows**
 
-Folder: `[Spoke] – Connect Card`
+    * `[CNC - 12 Week Follow Up – First Time Guests Workflow]`
+        * Trigger: Form submission
+        * Logic: 12-week drip with emails, SMS, staff notifications
 
-* `[CNC - 12 Week Follow Up – First Time Guests Workflow]`
+* **Email Templates**
 
-### Email Templates
+    * `[CNC - 01 Email Notification to Staff - Immediate]`
+    * `[CNC - 02 Email Notification to Staff - Monday AM - Selfie Video]`
+    * `[CNC - 03 Email - Week 1 - Tuesday AM]`
+    * `[CNC - 04 Email Notification to Staff - Wednesday AM - Written Note]`
+    * `[CNC - 05 Email - Week 2 - Monday 11AM]`
+    * `[CNC - 06 Email - Notification to Staff - Week 2 Monday AM]`
+    * `[CNC - 07 Email - Week 3 Thursday AM]`
+    * `[CNC - 08 Email - Week 11 Thursday AM]`
+    * `[CNC - 09 Email - Notification to Staff - Week 13]`
 
-Folder: `[Spoke] – Connect Card`
+* **SMS Snippets**
 
-1. `[CNC - 01 Email Notification to Staff - Immediate]`
-2. `[CNC - 02 Email Notification to Staff - Monday AM - Selfie Video]`
-3. `[CNC - 03 Email - Week 1 - Tuesday AM]`
-4. `[CNC - 04 Email Notification to Staff - Wednesday AM - Written Note]`
-5. `[CNC - 05 Email - Week 2 - Monday 11AM]`
-6. `[CNC - 06 Email - Notification to Staff - Week 2 Monday AM]`
-7. `[CNC - 07 Email - Week 3 Thursday AM]`
-8. `[CNC - 08 Email - Week 11 Thursday AM]`
-9. `[CNC - 09 Email - Notification to Staff - Week 13]`
-
----
-
-### SMS Snippets
-
-Folder: `[Spoke] – Connect Card`
-
-* `[CNC - 01 Text - Immediate - SMS Welcome]`
-* `[CNC - 02 Text - Week 1 Thursday AM]`
-* `[CNC - 03 Text - Week 2 Saturday PM]`
-* `[CNC - 04 Text - Week 3 Saturday PM]`
-* `[CNC - 05 Text - Week 4 Thursday AM]`
-* `[CNC - 06 Text - Week 5 Tuesday PM]`
-* `[CNC - 07 Text - Week 6 Saturday AM]`
-* `[CNC - 08 Text - Week 7 Thursday AM]`
-* `[CNC - 09 Text - Week 8 Tuesday PM]`
-* `[CNC - 10 Text - Week 9 Thursday PM]`
-* `[CNC - 11 Text - Week 10 Thursday PM]`
-* `[CNC - 12 Text - Week 11 Thursday PM]`
-* `[CNC - 13 Text - Week 12 Saturday PM]`
+    * `[CNC - 01 Text - Immediate - SMS Welcome]`
+    * `[CNC - 02 Text - Week 1 Thursday AM]`
+    * `[CNC - 03 Text - Week 2 Saturday PM]`
+    * `[CNC - 04 Text - Week 3 Saturday PM]`
+    * `[CNC - 05 Text - Week 4 Thursday AM]`
+    * `[CNC - 06 Text - Week 5 Tuesday PM]`
+    * `[CNC - 07 Text - Week 6 Saturday AM]`
+    * `[CNC - 08 Text - Week 7 Thursday AM]`
+    * `[CNC - 09 Text - Week 8 Tuesday PM]`
+    * `[CNC - 10 Text - Week 9 Thursday PM]`
+    * `[CNC - 11 Text - Week 10 Thursday PM]`
+    * `[CNC - 12 Text - Week 11 Thursday PM]`
+    * `[CNC - 13 Text - Week 12 Saturday PM]`
 
 ---
 
