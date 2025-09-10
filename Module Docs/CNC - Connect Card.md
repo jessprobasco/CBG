@@ -121,7 +121,8 @@ Stored in folder: `[Spoke] – Connect Card`
 | `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |
 | `Spoke_CNC_Funnel_ThankYou_VideoURL`      | Thank-you page video link                     |
 | `Spoke_CNC_Email_StaffNotification_Email` | Staff notification recipient email            |
-| `Spoke_CNC_Email_StaffNotification_Name`  | Name of the Connect Card coordinator          |
+| `Spoke_CNC_Coordinator_Name`  | Name of the Connect Card coordinator          |
+| `Spoke_CNC_Coordinator_Email` | Email of the Connect Card coordinator         |
 | `Spoke_CNC_Email_Week2_GuestEventName`    | Guest event name for week 2 email             |
 | `Spoke_CNC_Text_WelcomeCenterName`         | Name used in SMS for welcome center reference |
 | `Spoke_CNC_Contact_Week_Current` | Tracks the current follow-up week for the contact |

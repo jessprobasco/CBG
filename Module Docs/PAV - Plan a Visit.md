@@ -77,13 +77,15 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 
 | Key | Description |
 | --- | ----------- |
-| `Core_Church_Name` | Official church name used across templates and pages |
-| `Core_Email_Sender` | Default sender email address for automated emails |
-| `Core_Name_Sender_First` | First name used as the email sender display name |
-| `Core_Name_Sender_Last` | Last name used as the email sender display name |
-| `Core_URL_Logo` | Public URL to the church logo used for branding |
-| `Core_Address_Full` | Full physical address used in footers and communications |
-| `Core_Phone_Main` | Main public phone number for contact and support |
+| `Core_Church_Name`          | Official church name            |
+| `Core_Email_Sender`         | Default sender email address    |
+| `Core_Name_Sender_First`   | First name of email sender      |
+| `Core_Name_Sender_Last`    | Last name of email sender       |
+| `Core_Pastor_First_Name`   | Lead pastor first name          |
+| `Core_Pastor_Email`         | Lead pastor email address       |
+| `Core_URL_Logo`             | URL for church logo             |
+| `Core_Phone_Main`           | Main public phone number        |
+| `Core_Address_Full`         | Full physical address           |
 
 ### 3.2 Spoke Values (Module‑Specific)
 
@@ -95,9 +97,11 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 | `Spoke_PAV_Funnel_Calendar_Instructions` | Instructional copy shown on the calendar booking page |
 | `Spoke_PAV_Funnel_Success_Headline` | Headline displayed on the success/thank-you page after booking |
 | `Spoke_PAV_Funnel_Success_Body` | Body copy for the success/thank-you page (next steps, what to expect) |
-| `Spoke_PAV_Workflow_ConfirmationEmail_Subject` | Subject line used for the appointment confirmation email |
+| `Spoke_PAV_Coordinator_Name` | Name of the coordinator for the Plan A Visit module |
+| `Spoke_PAV_Coordinator_Email` | Email of the coordinator for the Plan A Visit module |
 | `Spoke_PAV_Workflow_24hEmail_Subject` | Subject line used for the 24-hour reminder email |
 | `Spoke_PAV_Workflow_1hEmail_Subject` | Subject line used for the 1-hour reminder email |
+
 
 ---
 
