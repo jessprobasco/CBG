@@ -45,7 +45,7 @@ All assets are stored in folder:
     * `[CNC] – Connect Card Funnel`
 
         * Page 1: `[CNC Start]` — Survey entry page
-        * Page 2: `[CNC Thank You]` — Post-submission confirmation + video
+        * Page 2: `[CNC Thank You]` — Post-submission confirmation
 
 * **Forms / Surveys**
 
@@ -118,8 +118,7 @@ Stored in folder: `[Spoke] – Connect Card`
 
 | Key                                         | Description                                   |
 | ------------------------------------------- | --------------------------------------------- |
-| `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |
-| `Spoke_CNC_Funnel_ThankYou_VideoURL`      | Thank-you page video link                     |
+| `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |                   |
 | `Spoke_CNC_Email_StaffNotification_Email` | Staff notification recipient email            |
 | `Spoke_CNC_Coordinator_Name`  | Name of the Connect Card coordinator          |
 | `Spoke_CNC_Coordinator_Email` | Email of the Connect Card coordinator         |
@@ -223,7 +222,6 @@ Stored in folder: `[Spoke] – Connect Card`
   * Headline: “Thank you for connecting with us!”
   * Subheadline: “We’ll be in touch soon.”
   * Body: “In the meantime, check your email and reply with any questions.”
-  * Video: `Spoke_CNC_Funnel_ThankYou_VideoURL`
   * Branding: `Core_URL_Logo`
 
 ---
@@ -232,7 +230,7 @@ Stored in folder: `[Spoke] – Connect Card`
 
 * Import module via GHL Snapshot funnel, survey, workflow, emails, SMS
 * Configure Core Values in `[Core] – Brand Values`
-* Configure Spoke Values for Connect Card (survey URL, video, coordinator email, etc.)
+* Configure Spoke Values for Connect Card (survey URL, coordinator email, etc.)
 * Map all custom values inside assets
 * Test submission flow: form → workflow → email/SMS → staff notifications
 * Verify timing logic for 12-week drip
@@ -255,4 +253,4 @@ Stored in folder: `[Spoke] – Connect Card`
 `Core_Church_Name`, `Core_Email_Sender`, `Core_Name_Sender_First`, `Core_Name_Sender_Last`, `Core_Pastor_First_Name`, `Core_Pastor_Email`, `Core_URL_Logo`, `Core_Phone_Main`, `Core_Address_Full`, `Core_Welcome_Center_Name`
 
 **Spoke Values:**
-`Spoke_CNC_Form_Survey_URL`, `Spoke_CNC_Funnel_ThankYou_VideoURL`, `Spoke_CNC_Email_StaffNotification_Email`, `Spoke_CNC_Email_StaffNotification_Name`, `Spoke_CNC_Email_Week2_GuestEventName`, `Spoke_CNC_Text_WelcomeCenterName`
+`Spoke_CNC_Form_Survey_URL`, `Spoke_CNC_Email_StaffNotification_Email`, `Spoke_CNC_Email_StaffNotification_Name`, `Spoke_CNC_Email_Week2_GuestEventName`, `Spoke_CNC_Text_WelcomeCenterName`
