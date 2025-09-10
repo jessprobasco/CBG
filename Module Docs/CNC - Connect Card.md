@@ -229,15 +229,14 @@ Stored in folder: `[Spoke] – Connect Card`
 
 ## 6.0 Deployment Checklist
 
-* Create `[Spoke] – Connect Card` folder structure
-* Import funnel, survey, workflow, emails, SMS
+* Import module via GHL Snapshot funnel, survey, workflow, emails, SMS
 * Configure Core Values in `[Core] – Brand Values`
 * Configure Spoke Values for Connect Card (survey URL, video, coordinator email, etc.)
 * Map all custom values inside assets
 * Test submission flow: form → workflow → email/SMS → staff notifications
 * Verify timing logic for 12-week drip
 * QA across desktop and mobile
-* Activate and document in Airtable Dictionary
+* Activate and document in Module Dictionary
 
 ---
 

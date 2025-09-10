@@ -134,7 +134,14 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 
 ## 6.0 Deployment Checklist
 
-*
+* import module via GHL Snapshot funnel, form, workflow, emails, SMS
+* Configure Core Values in `[Core] – Brand Values`
+* Configure Spoke Values for Plan A Visit (form URL, video, coordinator email, etc.)
+* Test submission flow: form → workflow → email/SMS → staff notifications
+* Verify timing logic for 12-week drip
+* QA across desktop and mobile
+* Activate and document in Module Dictionary
+
 
 ---
 
