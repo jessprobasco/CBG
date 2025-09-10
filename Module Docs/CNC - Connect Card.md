@@ -95,36 +95,36 @@ All assets are stored in folder:
 
 ## 3.0 Custom Value Dictionary
 
-### Core Values (Global Brand Assets)
+### 3.1 Core Values (Global Brand Assets)
 
 Stored in folder: `[Core] – Brand Values`
 
 | Key                         | Description                     |
 | --------------------------- | ------------------------------- |
-| Core\_Church\_Name          | Official church name            |
-| Core\_Email\_Sender         | Default sender email address    |
-| Core\_Name\_Sender\_First   | First name of email sender      |
-| Core\_Name\_Sender\_Last    | Last name of email sender       |
-| Core\_Pastor\_First\_Name   | Lead pastor first name          |
-| Core\_Pastor\_Email         | Lead pastor email address       |
-| Core\_URL\_Logo             | URL for church logo             |
-| Core\_Phone\_Main           | Main public phone number        |
-| Core\_Address\_Full         | Full physical address           |
-| Core\_Welcome\_Center\_Name | Name of welcome center location |
+| `Core_Church_Name`          | Official church name            |
+| `Core_Email_Sender`         | Default sender email address    |
+| `Core_Name_Sender_First`   | First name of email sender      |
+| `Core_Name_Sender_Last`    | Last name of email sender       |
+| `Core_Pastor_First_Name`   | Lead pastor first name          |
+| `Core_Pastor_Email`         | Lead pastor email address       |
+| `Core_URL_Logo`             | URL for church logo             |
+| `Core_Phone_Main`           | Main public phone number        |
+| `Core_Address_Full`         | Full physical address           |
+| `Core_Welcome_Center_Name` | Name of welcome center location |
 
-### Spoke Values (Module-Specific)
+### 3.2 Spoke Values (Module-Specific)
 
 Stored in folder: `[Spoke] – Connect Card`
 
 | Key                                         | Description                                   |
 | ------------------------------------------- | --------------------------------------------- |
-| Spoke\_CNC\_Form\_Survey\_URL               | URL of the Connect Card survey form           |
-| Spoke\_CNC\_Funnel\_ThankYou\_VideoURL      | Thank-you page video link                     |
-| Spoke\_CNC\_Email\_StaffNotification\_Email | Staff notification recipient email            |
-| Spoke\_CNC\_Email\_StaffNotification\_Name  | Name of the Connect Card coordinator          |
-| Spoke\_CNC\_Email\_Week2\_GuestEventName    | Guest event name for week 2 email             |
-| Spoke\_CNC\_Text\_WelcomeCenterName         | Name used in SMS for welcome center reference |
-| Spoke\_CNC\_Contact\_Week\_Current | Tracks the current follow-up week for the contact |
+| `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |
+| `Spoke_CNC_Funnel_ThankYou_VideoURL`      | Thank-you page video link                     |
+| `Spoke_CNC_Email_StaffNotification_Email` | Staff notification recipient email            |
+| `Spoke_CNC_Email_StaffNotification_Name`  | Name of the Connect Card coordinator          |
+| `Spoke_CNC_Email_Week2_GuestEventName`    | Guest event name for week 2 email             |
+| `Spoke_CNC_Text_WelcomeCenterName`         | Name used in SMS for welcome center reference |
+| `Spoke_CNC_Contact_Week_Current` | Tracks the current follow-up week for the contact |
 
 ---
 
