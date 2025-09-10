@@ -184,17 +184,66 @@ Current Folder Name: CNC Connect Card
   25. Wait 1 day and 19 hours
   26. Set contact custom field cnc-week = to 4
   27. wait 3 days
-  28. 
-
+  28. Send visitor sms [CNC - 05 Text // Week 4 // Thursday AM Text]
+  29. Wait 4 days
+  30. Set contact custom field cnc-week = to 5
+  31. wait 1 days and 5 hours
+  32. Send visitor sms [CNC - 06 Text // Week 5 // Tuesday PM Text]
+  33. Wait 5 days and 19 hours
+  34. Set contact custom field cnc-week = to 6
+  35. wait 5 days
+  36. Send visitor sms [CNC - 07 Text // Week 6 // Saturday AM]
+  37. Wait 2 days
+  38. Set contact custom field cnc-week = to 7
+  39. wait 3 days
+  40. Send visitor sms [CNC - 08 Text // Week 7 // Thursday AM]
+  41. Wait 4 days
+  42. Set contact custom field cnc-week = to 8
+  43. wait 1 days and 5 hours
+  44. send visitor sms [CNC - 09 Text // Week 8 // Tuesday PM]
+  45. Wait 5 days and 19 hours
+  46. Set contact custom field cnc-week = to 9
+  47. wait 3 days and 5 hours
+  48. send visitor sms [CNC - 10 Text // Week 9 // Thursday PM]
+  49. Wait 3 days and 19 hours
+  50. Set contact custom field cnc-week = to 10
+  51. wait 3 days and 5 hours
+  52. send visitor sms [CNC - 11 Text // Week 10 // Thursday PM]
+  53. Wait 3 days and 19 hours
+  54. Set contact custom field cnc-week = to 11
+  55. Wait 3 days
+  56. send visitor email [CC - 08 Email // Week 11 Thursday AM]
+  57. wait 5 hours
+  58. send visitor sms [CNC - 12 Week 11 // Text Message // Thursday PM]
+  59. Wait 3 days and 19 hours
+  60. set contact custom field cnc-week = to 12
+  61. wait 5 days and 5 hours
+  62. send visitor sms [CNC - 13 Text Week 12 // Saturday PM]
+  63. Wait 1 day and 19 hours
+  64. set contact custom field cnc-week = to 13
+  65. send internal email [CC - 09 Email Notification to Staff // Week 13 Send 84 Days] 
 
 
 ---
 
 ## 5. Funnel Page Requirements
 
-* **Page 1:** Purpose + content requirements
-* **Page 2:** Purpose + content requirements
-* **Page 3:** Purpose + content requirements
+* **Page 1:** 
+  - Purpose: Landing page to link to CNC Connect Card Info Survey
+  - content requirements: 
+    * Headline: We are so glad you've joined us!
+    * Subheadline: We'd love to connect with you! Take just a moment to give us your contact information so we can get to know you and let you know how we can best help you.
+    * Logo: Core_URL_Logo
+    * Embed: CNC Connect Card Info Survey
+* **Page 2:** 
+  - Purpose: Thank you page after survey submission
+  - content requirements: 
+    * Headline: Thank you for connecting with us!
+    * Subheadline: We look forward to connecting with you! Someone from the church will be in touch soon.
+    * Body text: In the meantime, check your email soon and reply back with any questions you have.
+    * Logo: Core_URL_Logo
+    * Video: Custom Connect Card video link to be provided by the church
+
 
 ---
 
@@ -204,7 +253,6 @@ Current Folder Name: CNC Connect Card
 * [ ] Import funnel, forms, workflows, emails, SMS
 * [ ] Configure Core values
 * [ ] Configure Spoke values
-* [ ] Configure calendar availability
 * [ ] Test end‑to‑end flow
 * [ ] Activate and hand off
 
@@ -214,7 +262,7 @@ Current Folder Name: CNC Connect Card
 
 * Immutable Keys: never rename custom value Keys once created.
 * Promotion Rule: promote Spoke → Core only if 2+ unrelated modules use it.
-* Airtable Governance: log all assets and values before creation.
+* Module/Value Database Governance: log all assets and values before creation.
 
 ---
 
