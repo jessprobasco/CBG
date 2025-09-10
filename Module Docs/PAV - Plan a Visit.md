@@ -161,5 +161,6 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 
 **Core:** 
 `Core_Church_Name`, `Core_Email_Sender`, `Core_Name_Sender_First`, `Core_Name_Sender_Last`, `Core_Pastor_First_Name`, `Core_Pastor_Email`, `Core_URL_Logo`, `Core_Phone_Main`, `Core_Address_Full`
+
 **Spoke (PAV):**
 `Spoke_PAV_General_ConfirmationVideo_URL`, `Spoke_PAV_Funnel_Start_Headline`, `Spoke_PAV_Funnel_Start_Subheadline`, `Spoke_PAV_Funnel_Calendar_Instructions`, `Spoke_PAV_Funnel_Success_Headline`, `Spoke_PAV_Funnel_Success_Body`, `Spoke_PAV_Coordinator_Name`, `Spoke_PAV_Coordinator_Email`, `Spoke_PAV_Workflow_24hEmail_Subject`, `Spoke_PAV_Workflow_1hEmail_Subject`
