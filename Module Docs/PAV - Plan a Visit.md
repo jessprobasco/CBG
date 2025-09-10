@@ -142,7 +142,7 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 * Configure Core Values in `[Core] – Brand Values`
 * Configure Spoke Values for Plan A Visit (form URL, video, coordinator email, etc.)
 * Test submission flow: form → workflow → email/SMS → staff notifications
-* Verify timing logic for 12-week drip
+* Verify timing logic for PAV reminders
 * QA across desktop and mobile
 * Activate and document in Module Dictionary
 
