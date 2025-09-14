@@ -119,12 +119,16 @@ Stored in folder: `[Spoke] – Connect Card`
 | Key                                         | Description                                   |
 | ------------------------------------------- | --------------------------------------------- |
 | `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |                   |
-| `Spoke_CNC_Email_StaffNotification_Email` | Staff notification recipient email            |
+| `Spoke_CNC_Email_Staff_Notification_Email` | Staff notification recipient email            |
 | `Spoke_CNC_Coordinator_Name`  | Name of the Connect Card coordinator          |
 | `Spoke_CNC_Coordinator_Email` | Email of the Connect Card coordinator         |
-| `Spoke_CNC_Email_Week2_GuestEventName`    | Guest event name for week 2 email             |
-| `Spoke_CNC_Text_WelcomeCenterName`         | Name used in SMS for welcome center reference |
+| `Spoke_CNC_New_Guest_Event_Name`    | Guest event name for week 2 email             |
+
+### 3.3 Spoke Contact Field (Module-Specific)
+| Key                          | Description                                         |
+| ---------------------------- | --------------------------------------------------- |
 | `Spoke_CNC_Contact_Week_Current` | Tracks the current follow-up week for the contact |
+
 
 ---
 
@@ -148,57 +152,58 @@ Stored in folder: `[Spoke] – Connect Card`
 12. Send `[CNC - 02 Text - Week 1 Thursday AM]`
 13. Wait 4 days
 14. Set contact custom field Spoke_CNC_Contact_Week_Current = 2
-15. Send `[CNC - 05 Email - Week 2 - Monday 11AM]`
-16. Send `[CNC - 06 Email - Notification to Staff - Week 2 Monday AM]`
-17. Wait 5 days 5 hours
-18. Send `[CNC - 03 Text - Week 2 Saturday PM]`
-19. Wait 1 day 19 hours
-20. Set contact custom field Spoke_CNC_Contact_Week_Current = 3
-21. Wait 3 days
-22. Send `[CNC - 07 Email - Week 3 Thursday AM]`
-23. Wait 2 days 5 hours
-24. Send `[CNC - 04 Text - Week 3 Saturday PM]`
-25. Wait 1 day 19 hours
-26. Set contact custom field Spoke_CNC_Contact_Week_Current = 4
-27. Wait 3 days
-28. Send `[CNC - 05 Text - Week 4 Thursday AM]`
-29. Wait 4 days
-30. Set contact custom field Spoke_CNC_Contact_Week_Current = 5
-31. Wait 1 day 5 hours
-32. Send `[CNC - 06 Text - Week 5 Tuesday PM]`
-33. Wait 5 days 19 hours
-34. Set contact custom field Spoke_CNC_Contact_Week_Current = 6
-35. Wait 5 days
-36. Send `[CNC - 07 Text - Week 6 Saturday AM]`
-37. Wait 2 days
-38. Set contact custom field Spoke_CNC_Contact_Week_Current = 7
-39. Wait 3 days
-40. Send `[CNC - 08 Text - Week 7 Thursday AM]`
-41. Wait 4 days
-42. Set contact custom field Spoke_CNC_Contact_Week_Current = 8
-43. Wait 1 day 5 hours
-44. Send `[CNC - 09 Text - Week 8 Tuesday PM]`
-45. Wait 5 days 19 hours
-46. Set contact custom field Spoke_CNC_Contact_Week_Current = 9
-47. Wait 3 days 5 hours
-48. Send `[CNC - 10 Text - Week 9 Thursday PM]`
-49. Wait 3 days 19 hours
-50. Set contact custom field Spoke_CNC_Contact_Week_Current = 10
-51. Wait 3 days 5 hours
-52. Send `[CNC - 11 Text - Week 10 Thursday PM]`
-53. Wait 3 days 19 hours
-54. Set contact custom field Spoke_CNC_Contact_Week_Current = 11
-55. Wait 3 days
-56. Send `[CNC - 08 Email - Week 11 Thursday AM]`
-57. Wait 5 hours
-58. Send `[CNC - 12 Text - Week 11 Thursday PM]`
-59. Wait 3 days 19 hours
-60. Set contact custom field Spoke_CNC_Contact_Week_Current = 12
-61. Wait 5 days 5 hours
-62. Send `[CNC - 13 Text - Week 12 Saturday PM]`
-63. Wait 1 day 19 hours
-64. Set contact custom field Spoke_CNC_Contact_Week_Current = 13
-65. Send `[CNC - 09 Email - Notification to Staff - Week 13]`
+15. Wait 1 hour
+16. Send `[CNC - 05 Email - Week 2 - Monday 11AM]`
+17. Send `[CNC - 06 Email - Notification to Staff - Week 2 Monday AM]`
+18. Wait 5 days 5 hours
+19. Send `[CNC - 03 Text - Week 2 Saturday PM]`
+20. Wait 1 day 19 hours
+21. Set contact custom field Spoke_CNC_Contact_Week_Current = 3
+22. Wait 3 days
+23. Send `[CNC - 07 Email - Week 3 Thursday AM]`
+24. Wait 2 days 5 hours
+25. Send `[CNC - 04 Text - Week 3 Saturday PM]`
+26. Wait 1 day 19 hours
+27. Set contact custom field Spoke_CNC_Contact_Week_Current = 4
+28. Wait 3 days
+29. Send `[CNC - 05 Text - Week 4 Thursday AM]`
+30. Wait 4 days
+31. Set contact custom field Spoke_CNC_Contact_Week_Current = 5
+32. Wait 1 day 5 hours
+33. Send `[CNC - 06 Text - Week 5 Tuesday PM]`
+34. Wait 5 days 19 hours
+35. Set contact custom field Spoke_CNC_Contact_Week_Current = 6
+36. Wait 5 days
+37. Send `[CNC - 07 Text - Week 6 Saturday AM]`
+38. Wait 2 days
+39. Set contact custom field Spoke_CNC_Contact_Week_Current = 7
+40. Wait 3 days
+41. Send `[CNC - 08 Text - Week 7 Thursday AM]`
+42. Wait 4 days
+43. Set contact custom field Spoke_CNC_Contact_Week_Current = 8
+44. Wait 1 day 5 hours
+45. Send `[CNC - 09 Text - Week 8 Tuesday PM]`
+46. Wait 5 days 19 hours
+47. Set contact custom field Spoke_CNC_Contact_Week_Current = 9
+48. Wait 3 days 5 hours
+49. Send `[CNC - 10 Text - Week 9 Thursday PM]`
+50. Wait 3 days 19 hours
+51. Set contact custom field Spoke_CNC_Contact_Week_Current = 10
+52. Wait 3 days 5 hours
+53. Send `[CNC - 11 Text - Week 10 Thursday PM]`
+54. Wait 3 days 19 hours
+55. Set contact custom field Spoke_CNC_Contact_Week_Current = 11
+56. Wait 3 days
+57. Send `[CNC - 08 Email - Week 11 Thursday AM]`
+58. Wait 5 hours
+59. Send `[CNC - 12 Text - Week 11 Thursday PM]`
+60. Wait 3 days 19 hours
+61. Set contact custom field Spoke_CNC_Contact_Week_Current = 12
+62. Wait 5 days 5 hours
+63. Send `[CNC - 13 Text - Week 12 Saturday PM]`
+64. Wait 1 day 19 hours
+65. Set contact custom field Spoke_CNC_Contact_Week_Current = 13
+66. Send `[CNC - 09 Email - Notification to Staff - Week 13]`
 
 
 ---
