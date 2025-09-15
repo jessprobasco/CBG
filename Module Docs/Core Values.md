@@ -56,6 +56,7 @@ No Core Values may exist outside this folder.
 | `Core_Color_Secondary_Hex`    | Secondary brand color (hex code)        | Color Hex |
 | `Core_Color_Tertiary_Hex`     | Tertiary brand color (hex code)         | Color Hex |
 | `Core_Service_Times`         | Display text for service times          | Rich Text |
+| `Core_Welcome_Event_Name`   | Name of the main welcome event          | Text      |
 
 ---
 

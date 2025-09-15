@@ -120,9 +120,11 @@ Stored in folder: `[Spoke] – Connect Card`
 | ------------------------------------------- | --------------------------------------------- |
 | `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |
 | `Spoke_CNC_Email_Staff_Notification_Email` | Staff notification recipient email            |
+| `Spoke_CNC_Coordinator_First_Name`  | First name of the Connect Card coordinator          |
+| `Spoke_CNC_Coordinator_Last_Name`   | Last name of the Connect Card coordinator           |
 | `Spoke_CNC_Coordinator_Name`  | Name of the Connect Card coordinator          |
 | `Spoke_CNC_Coordinator_Email` | Email of the Connect Card coordinator         |
-| `Spoke_CNC_New_Guest_Event_Name`    | Guest event name for week 2 email             |
+\\TODO: Update to Global | `Spoke_CNC_New_Guest_Event_Name`    | Guest event name for week 2 email             |global Coo
 
 ### 3.3 Spoke Contact Field (Module-Specific)
 | Key                          | Description                                         |
