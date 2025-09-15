@@ -118,7 +118,7 @@ Stored in folder: `[Spoke] – Connect Card`
 
 | Key                                         | Description                                   |
 | ------------------------------------------- | --------------------------------------------- |
-| `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |                   |
+| `Spoke_CNC_Form_Survey_URL`               | URL of the Connect Card survey form           |
 | `Spoke_CNC_Email_Staff_Notification_Email` | Staff notification recipient email            |
 | `Spoke_CNC_Coordinator_Name`  | Name of the Connect Card coordinator          |
 | `Spoke_CNC_Coordinator_Email` | Email of the Connect Card coordinator         |
@@ -128,7 +128,7 @@ Stored in folder: `[Spoke] – Connect Card`
 | Key                          | Description                                         |
 | ---------------------------- | --------------------------------------------------- |
 | `Spoke_CNC_Contact_Week_Current` | Tracks the current follow-up week for the contact |
-
+d
 
 ---
 

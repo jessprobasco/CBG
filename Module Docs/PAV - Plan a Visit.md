@@ -91,16 +91,13 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 
 | Key | Description |
 | --- | ----------- |
-| `Spoke_PAV_General_ConfirmationVideo_URL` | Public URL for the confirmation video embedded on the success page or in emails |
+| `Spoke_PAV_Welcome_Video_URL` | Public URL for the Welcome video embedded on the success page or in emails |
 | `Spoke_PAV_Funnel_Start_Headline` | Headline text shown on the PAV Start page |
 | `Spoke_PAV_Funnel_Start_Subheadline` | Supporting subheadline text on the PAV Start page |
 | `Spoke_PAV_Funnel_Calendar_Instructions` | Instructional copy shown on the calendar booking page |
-| `Spoke_PAV_Funnel_Success_Headline` | Headline displayed on the success/thank-you page after booking |
-| `Spoke_PAV_Funnel_Success_Body` | Body copy for the success/thank-you page (next steps, what to expect) |
-| `Spoke_PAV_Coordinator_Name` | Name of the coordinator for the Plan A Visit module |
+| `Spoke_PAV_Coordinator_First_Name` | First name of the coordinator for the Plan A Visit module |
+| `Spoke_PAV_Coordinator_Last_Name` | Last name of the coordinator for the Plan A Visit module |
 | `Spoke_PAV_Coordinator_Email` | Email of the coordinator for the Plan A Visit module |
-| `Spoke_PAV_Workflow_24hEmail_Subject` | Subject line used for the 24-hour reminder email |
-| `Spoke_PAV_Workflow_1hEmail_Subject` | Subject line used for the 1-hour reminder email |
 
 
 ---
