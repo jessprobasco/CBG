@@ -171,4 +171,38 @@ Use this to collect inputs when instantiating the module for a new church.
 **Module Identity**
 
 * Module Name: `Welcome Event`
-* Module Prefix: \`WLE
+* Module Prefix: `WLE`
+
+**Funnels**
+
+* Funnel Name: `[WLE] – Welcome Event Funnel`
+
+  * Page 1: `WLE Welcome Page` — Welcome + Info Capture
+  * Page 2: `WLE Thank You Page` — Confirmation + Next Steps
+
+**Form**
+
+* `[WLE] – Welcome Event Form`
+
+  * `contact.firstname`, `contact.lastname`, `contact.phone`, `contact.email`
+
+**Workflow**
+
+* `[WLE] – 1 New Visitors – Welcome Event` — Trigger: form submission
+
+**Email Templates**
+
+* `[WLE] – Staff Notification – Message 1` — Notify staff of new RSVP
+* `[WLE] – New Visitors – Message 1` — Confirm RSVP + details
+
+**SMS Snippets**
+
+* `[WLE] – New Visitors – Text 1` — Confirm RSVP + details
+
+**Core Values**
+`Core_Church_Name`, `Core_Email_Sender`, `Core_Name_Sender_First`, `Core_Name_Sender_Last`, `Core_Pastor_First_Name`, `Core_Pastor_Last_Name`, `Core_Pastor_Email`, `Core_URL_Logo`, `Core_Welcome_Event_Name`
+
+**Spoke Values (WLE)**
+`Spoke_WLE_Location`, `Spoke_WLE_Date`, `Spoke_WLE_Time`, `Spoke_WLE_Coordinator_First_Name`, `Spoke_WLE_Coordinator_Last_Name`, `Spoke_WLE_Coordinator_Email`, `Spoke_WLE_Event_Image_URL`
+
+
