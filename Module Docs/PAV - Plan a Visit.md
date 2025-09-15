@@ -99,6 +99,11 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 | `Spoke_PAV_Coordinator_Last_Name` | Last name of the coordinator for the Plan A Visit module |
 | `Spoke_PAV_Coordinator_Email` | Email of the coordinator for the Plan A Visit module |
 
+### 3.3 Spoke Contact Field (Module-Specific)
+| Key                          | Description                                         |
+| ---------------------------- | --------------------------------------------------- |
+| `Spoke_PAV_Start_Time` | Date/time of the planned visit submitted by contact |
+| `Spoke_PAV_Service_Time` | Selected service time (if applicable) submitted by contact |
 
 ---
 
