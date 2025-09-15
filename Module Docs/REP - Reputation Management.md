@@ -46,7 +46,7 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 
 **Survey**
 
-* `[REP] – Review Survey`
+* `[REP] – Google Review Survey`
 
   * Fields:
 
