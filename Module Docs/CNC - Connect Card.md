@@ -128,7 +128,7 @@ Stored in folder: `[Spoke] – Connect Card`
 | Key                          | Description                                         |
 | ---------------------------- | --------------------------------------------------- |
 | `Spoke_CNC_Contact_Week_Current` | Tracks the current follow-up week for the contact |
-d
+
 
 ---
 
