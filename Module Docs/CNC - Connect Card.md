@@ -26,6 +26,8 @@ The Connect Card module (\[CNC]) exists to capture first-time guest information,
 * Church communications and guest services team
 * Ministry leaders responsible for follow-up
 
+![Connect Card Overview](./images/cnc_overview.png)
+
 ---
 
 ## 2.0 Asset Inventory
