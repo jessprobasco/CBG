@@ -1,0 +1,17 @@
+site_name: CBG Modules
+site_url: https://jessprobasco.github.io/CBG
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Modules:
+      - Connect Card (CNC): modules/cnc/index.md
+      - Plan A Visit (PAV): modules/pav/index.md
+      - Reputation Management (REP): modules/rep/index.md
+      - Welcome Event (WLE): modules/wle/index.md
+      # add more as needed
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list

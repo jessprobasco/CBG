@@ -26,7 +26,7 @@ The Welcome Event module (WLE) captures RSVP details for the church’s main Wel
 * Church communications and guest services team
 * Ministry leaders responsible for new visitor engagement
 
-![Welcome Event Overview](./images/wle_overview.png)
+![Welcome Event Overview](./wle_overview.png)
 
 ---
 
