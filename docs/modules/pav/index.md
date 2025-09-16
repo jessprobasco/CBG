@@ -26,7 +26,7 @@ Deliver a frictionless, automated system for prospective visitors to plan their 
 * Church communications and guest services team
 * Ministry leaders responsible for visitor experience
 
-![Plan A Visit Overview](./images/pav_overview.png)
+![Plan A Visit Overview](./pav_overview.png)
 
 ---
 

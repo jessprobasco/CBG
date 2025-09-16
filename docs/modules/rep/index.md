@@ -27,7 +27,7 @@ The Reputation Management module (REP) captures and manages online reviews, rout
 * Church communications and guest services team
 * Ministry leaders responsible for reputation and feedback
 
-![Reputation Management Overview](./images/rep_overview.png)
+![Reputation Management Overview](./rep_overview.png)
 
 ---
 
