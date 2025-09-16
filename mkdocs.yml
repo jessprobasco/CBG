@@ -4,6 +4,7 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - Core: core/index.md
   - Modules:
       - Connect Card (CNC): modules/cnc/index.md
       - Plan A Visit (PAV): modules/pav/index.md
