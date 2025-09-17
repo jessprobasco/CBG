@@ -48,6 +48,7 @@ No Core Values may exist outside this folder.
 | `Core_Pastor_Last_Name`      | Lead pastor’s last name                 | Text      |
 | `Core_Pastor_Email`          | Lead pastor’s email                     | Email     |
 | `Core_URL_Logo`              | URL for primary church logo             | URL       |
+| `Core_URL_Logo_Alt`          | URL for alternative church logo         | URL       |
 | `Core_Phone_Main`            | Main public phone number                | Phone     |
 | `Core_Address_Full`          | Full address (single line)              | Text      |
 | `Core_Address_Full_Formatted` | Display-ready address (multi-line)      | Rich Text |

@@ -90,6 +90,7 @@ Stored in folder: `[Core] – Brand Values`
 | `Core_Pastor_Last_Name`   | Lead pastor’s last name                 | Text      |
 | `Core_Pastor_Email`       | Lead pastor’s email                     | Email     |
 | `Core_URL_Logo`           | URL for primary church logo             | URL       |
+| `Core_URL_Logo_Alt`      | URL for alternative church logo         | URL       |
 | `Core_Welcome_Event_Name` | Name of the church’s main welcome event | Text      |
 
 ### 3.2 Spoke Values (Module-Specific)
@@ -202,7 +203,7 @@ Use this to collect inputs when instantiating the module for a new church.
 * `[WLE] – New Visitors – Text 1` — Confirm RSVP + details
 
 **Core Values**
-`Core_Church_Name`, `Core_Email_Sender`, `Core_Name_Sender_First`, `Core_Name_Sender_Last`, `Core_Pastor_First_Name`, `Core_Pastor_Last_Name`, `Core_Pastor_Email`, `Core_URL_Logo`, `Core_Welcome_Event_Name`
+`Core_Church_Name`, `Core_Email_Sender`, `Core_Name_Sender_First`, `Core_Name_Sender_Last`, `Core_Pastor_First_Name`, `Core_Pastor_Last_Name`, `Core_Pastor_Email`, `Core_URL_Logo`, `Core_URL_Logo_Alt`, `Core_Welcome_Event_Name`
 
 **Spoke Values (WLE)**
 `Spoke_WLE_Location`, `Spoke_WLE_Date`, `Spoke_WLE_Time`, `Spoke_WLE_Coordinator_First_Name`, `Spoke_WLE_Coordinator_Last_Name`, `Spoke_WLE_Coordinator_Email`, `Spoke_WLE_Event_Image_URL`
