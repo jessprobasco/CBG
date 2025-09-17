@@ -110,6 +110,7 @@ Stored in folder: `[Core] – Brand Values`
 | `Core_Pastor_First_Name`   | Lead pastor first name          |
 | `Core_Pastor_Email`         | Lead pastor email address       |
 | `Core_URL_Logo`             | URL for church logo             |
+| `Core_URL_Logo_Alt`         | URL for alternative church logo |
 | `Core_Phone_Main`           | Main public phone number        |
 | `Core_Address_Full`         | Full physical address           |
 | `Core_Welcome_Center_Name` | Name of welcome center location |
@@ -259,7 +260,7 @@ Stored in folder: `[Spoke] – Connect Card`
 ## Appendix: Quick Reference Keys
 
 **Core Values:**
-`Core_Church_Name`, `Core_Email_Sender`, `Core_Name_Sender_First`, `Core_Name_Sender_Last`, `Core_Pastor_First_Name`, `Core_Pastor_Email`, `Core_URL_Logo`, `Core_Phone_Main`, `Core_Address_Full`, `Core_Welcome_Center_Name`
+`Core_Church_Name`, `Core_Email_Sender`, `Core_Name_Sender_First`, `Core_Name_Sender_Last`, `Core_Pastor_First_Name`, `Core_Pastor_Email`, `Core_URL_Logo`, `Core_URL_Logo_Alt`, `Core_Phone_Main`, `Core_Address_Full`, `Core_Welcome_Center_Name`
 
 **Spoke Values:**
 `Spoke_CNC_Form_Survey_URL`, `Spoke_CNC_Email_StaffNotification_Email`, `Spoke_CNC_Email_StaffNotification_Name`, `Spoke_CNC_Email_Week2_GuestEventName`, `Spoke_CNC_Text_WelcomeCenterName`

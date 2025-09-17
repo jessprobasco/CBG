@@ -104,6 +104,7 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 | `Core_Pastor_Last_Name`  | Lead pastor’s last name      | Text      |
 | `Core_Pastor_Email`      | Lead pastor’s email          | Email     |
 | `Core_URL_Logo`          | URL for primary church logo  | URL       |
+| `Core_URL_Logo_Alt`      | URL for alternative church logo | URL    |
 
 ### 3.2 Spoke Values (Module-Specific)
 
