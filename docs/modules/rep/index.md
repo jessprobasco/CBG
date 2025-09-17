@@ -1,10 +1,10 @@
 # \[REP] Reputation Management — SOP (Core & Spoke–Aligned)
 
-**Module Name:** Reputation Management
-**Module Prefix:** REP
-**Version:** 1.0
-**Last Updated:** Sep 14, 2025
-**Owner:** Church Brand Guide Ops
+**Module Name:** Reputation Management  
+**Module Prefix:** REP  
+**Version:** 1.1 (Updated)  
+**Last Updated:** Sep 17, 2025  
+**Owner:** Church Brand Guide Ops  
 
 ---
 

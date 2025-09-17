@@ -1,10 +1,10 @@
 # \[Core] Values — SOP (Core & Spoke–Aligned)
 
-**Module Name:** Core Values
-**Module Prefix:** Core
-**Version:** 1.0
-**Last Updated:** Sep 14, 2025
-**Owner:** Church Brand Guide Ops
+**Module Name:** Core Values  
+**Module Prefix:** Core  
+**Version:** 1.1 (Updated)   
+**Last Updated:** Sep 17, 2025  
+**Owner:** Church Brand Guide Ops  
 
 ---
 

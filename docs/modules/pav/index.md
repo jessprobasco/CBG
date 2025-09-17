@@ -1,10 +1,10 @@
 # \[PAV] Plan A Visit — Updated SOP (Core & Spoke–Aligned)
 
-**Module Name:** Plan A Visit
-**Module Prefix:** PAV
-**Version:** 1.1 (Updated)
-**Last Updated:** Sep 4, 2025
-**Owner:** Church Brand Guide Ops
+**Module Name:** Plan A Visit  
+**Module Prefix:** PAV  
+**Version:** 1.2 (Updated)  
+**Last Updated:** Sep 17, 2025  
+**Owner:** Church Brand Guide Ops  
 
 ---
 

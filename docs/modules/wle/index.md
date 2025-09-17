@@ -1,10 +1,10 @@
 # \[WLE] Welcome Event — SOP (Core & Spoke–Aligned)
 
-**Module Name:** Welcome Event
-**Module Prefix:** WLE
-**Version:** 1.0
-**Last Updated:** Sep 15, 2025
-**Owner:** Church Brand Guide Ops
+**Module Name:** Welcome Event  
+**Module Prefix:** WLE  
+**Version:** 1.1 (Updated)    
+**Last Updated:** Sep 17, 2025  
+**Owner:** Church Brand Guide Ops  
 
 ---
 

@@ -1,10 +1,10 @@
 # SOP: \[CNC] Connect Card Module
 
-**Module Name:** Connect Card
-**Module Prefix:** CNC
-**Version:** 1.0
-**Last Updated:** Sep 6, 2025
-**Owner:** Church Brand Guide Ops
+**Module Name:** Connect Card  
+**Module Prefix:** CNC  
+**Version:** 1.1 (Updated)  
+**Last Updated:** Sep 17, 2025  
+**Owner:** Church Brand Guide Ops  
 
 ---
 
