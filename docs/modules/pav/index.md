@@ -53,11 +53,12 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
 
 * **Calendars**
 
-  * `[PAV] – {{ Core_Church_Name }} Service Times`
+  * Calendar Group: `[Spoke] – Plan A Visit` 
+    * `{{ Core_Church_Name }} Service Times`
 
 * **Workflows**
 
-  * `[PAV] – Plan A Visit (Confirmation & Reminders)`
+  * `[PAV] – Confirmation & Reminders`
 
 * **Email Templates**
 
