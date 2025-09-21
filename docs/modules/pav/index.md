@@ -44,8 +44,8 @@ Sub‑folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
   * `[PAV] – Plan A Visit Funnel`
 
     * Page 1: `PAV Start`
-    * Page 2: `Plan a Visit Calendar`
-    * Page 3: `Plan a Visit Success Page`
+    * Page 2: `PAV Calendar`
+    * Page 3: `PAV Success Page`
 
 * **Forms / Surveys**
 
