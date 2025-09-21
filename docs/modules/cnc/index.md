@@ -46,8 +46,8 @@ All assets are stored in folder:
 
     * `[CNC] – Connect Card Funnel`
 
-        * Page 1: `[CNC Start]` — Survey entry page
-        * Page 2: `[CNC Thank You]` — Post-submission confirmation
+        * Page 1: `CNC Start` — Survey entry page
+        * Page 2: `CNC Thank You` — Post-submission confirmation
 
 * **Forms / Surveys**
 
