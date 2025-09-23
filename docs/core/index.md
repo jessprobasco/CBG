@@ -1,4 +1,4 @@
-# \[Core] Values — SOP (Core & Spoke–Aligned)
+# [Core] Values — SOP (Core & Spoke–Aligned)
 
 **Module Name:** Core Values  
 **Module Prefix:** Core  
