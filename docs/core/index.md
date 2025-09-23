@@ -50,6 +50,8 @@ No Core Values may exist outside this folder.
 | `Core_URL_Logo`              | URL for primary church logo             | URL       |
 | `Core_URL_Logo_Alt`          | URL for alternative church logo         | URL       |
 | `Core_Phone_Main`            | Main public phone number                | Phone     |
+| `Core_Address_City`          | City part of physical address           | Text      |
+| `Core_Address_State`         | State part of physical address          | Text      |
 | `Core_Address_Full`          | Full address (single line)              | Text      |
 | `Core_Address_Full_Formatted` | Display-ready address (multi-line)      | Rich Text |
 | `Core_Welcome_Center_Name`   | Name of Welcome Center / lobby location | Text      |
@@ -58,6 +60,8 @@ No Core Values may exist outside this folder.
 | `Core_Color_Tertiary_Hex`     | Tertiary brand color (hex code)         | Color Hex |
 | `Core_Service_Times`         | Display text for service times          | Rich Text |
 | `Core_Welcome_Event_Name`   | Name of the main welcome event          | Text      |
+| `Core_Privacy_Policy_URL`     | URL to the privacy policy page          | URL       |
+| `Core_Terms_of_Service_URL`   | URL to the terms of service page      | URL       |
 
 ---
 
