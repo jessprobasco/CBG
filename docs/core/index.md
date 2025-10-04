@@ -59,7 +59,11 @@ No Core Values may exist outside this folder.
 | `Core_Color_Secondary_Hex`    | Secondary brand color (hex code)        | Color Hex |
 | `Core_Color_Tertiary_Hex`     | Tertiary brand color (hex code)         | Color Hex |
 | `Core_Service_Times`         | Display text for service times          | Rich Text |
+| `Core_Welcome_Center_Name`   | Name of Welcome Center / lobby location | Text      |
 | `Core_Welcome_Event_Name`   | Name of the main welcome event          | Text      |
+| `Core_Serve_Team_Name`      | Name of the main serve team             | Text      |
+| `Core_Small_Groups_Name`  | Name of the small groups ministry       | Text      |
+| `Core_Social_Facebook`       | Facebook page URL                       | URL       |
 | `Core_Privacy_Policy_URL`     | URL to the privacy policy page          | URL       |
 | `Core_Terms_of_Service_URL`   | URL to the terms of service page      | URL       |
 
