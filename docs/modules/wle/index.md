@@ -56,6 +56,7 @@ Sub-folders: Funnels, Forms, Workflows, Email Templates, SMS Snippets.
     * `contact.lastname`
     * `contact.phone`
     * `contact.email`
+    * `spoke_wle_additonal_information`
 
 **Workflows**
 
